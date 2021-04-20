@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RL_2 Pin=MUX2-9
+Removed Pin From Net: NetName=BI_DRV_ACT Pin=MUX2-15
+Added Pin To Net: NetName=BI_DRV_ACT Pin=MUX2-9
+Added Pin To Net: NetName=RL_2 Pin=MUX2-15

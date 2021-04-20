@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FPGA_Tester_Board.PrjPcb]
+   Generated File[FPGA_Tester_Board.TXT]
+   Generated File[FPGA_Tester_Board.LDP]
+   Generated File[FPGA_Tester_Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:36:37 PM On 3/31/2021

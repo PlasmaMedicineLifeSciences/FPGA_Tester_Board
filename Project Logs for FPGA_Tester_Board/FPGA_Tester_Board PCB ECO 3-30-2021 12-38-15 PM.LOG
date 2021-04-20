@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CS_N Pin=MUX1-4
+Removed Pin From Net: NetName=TX Pin=MUX1-5
+Removed Pin From Net: NetName=SV1-D-PK-A Pin=MUX1-6
+Removed Pin From Net: NetName=SCLK-A Pin=MUX1-7
+Added Pin To Net: NetName=TX Pin=MUX1-4
+Added Pin To Net: NetName=CS_N Pin=MUX1-5
+Added Pin To Net: NetName=SCLK-A Pin=MUX1-6
+Added Pin To Net: NetName=SV1-D-PK-A Pin=MUX1-7

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PV1-D-PK-B Pin=MUX2-4
+Removed Pin From Net: NetName=CAL_100 Pin=MUX2-5
+Removed Pin From Net: NetName=SV3-D-PK-B Pin=MUX2-6
+Removed Pin From Net: NetName=GM_DIN Pin=MUX2-10
+Removed Pin From Net: NetName=SV2-D-PK-A Pin=MUX2-11
+Removed Pin From Net: NetName=PV1-D-PK-A Pin=MUX2-12
+Added Pin To Net: NetName=SV2-D-PK-A Pin=MUX2-4
+Added Pin To Net: NetName=GM_DIN Pin=MUX2-5
+Added Pin To Net: NetName=PV1-D-PK-A Pin=MUX2-6
+Added Pin To Net: NetName=CAL_100 Pin=MUX2-10
+Added Pin To Net: NetName=PV1-D-PK-B Pin=MUX2-11
+Added Pin To Net: NetName=SV3-D-PK-B Pin=MUX2-12

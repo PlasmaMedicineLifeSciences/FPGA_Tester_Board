@@ -1,0 +1,360 @@
+Added Component: Designator=12V(HDR1X3_12V)
+Added Component: Designator=CB1(1206c)
+Added Component: Designator=CB2(1206c)
+Added Component: Designator=CB3(1206c)
+Added Component: Designator=CB4(1206c)
+Added Component: Designator=CB5(1206c)
+Added Component: Designator=CB6(1206c)
+Added Component: Designator=CB7(1206c)
+Added Component: Designator=CB8(1206c)
+Added Component: Designator=CB9(1206c)
+Added Component: Designator=CB10(1206c)
+Added Component: Designator=CB11(0805c)
+Added Component: Designator=CB12(0805c)
+Added Component: Designator=CB13(1206c)
+Added Component: Designator=CB14(0805c)
+Added Component: Designator=CB15(1206c)
+Added Component: Designator=CB16(0805c)
+Added Component: Designator=HEADER1(5536501-3)
+Added Component: Designator=HEADER2(5536501-1)
+Added Component: Designator=LDO1(ONSC-SOT-223-4-318H-01_A_V)
+Added Component: Designator=LDO2(ONSC-SOT-223-4-318H-01_A_V)
+Added Component: Designator=MUX1(SOP65P640X120-16N)
+Added Component: Designator=MUX2(SOP65P640X120-16N)
+Added Component: Designator=PWR(5536623-1)
+Added Component: Designator=R1(0603R)
+Added Component: Designator=SN1(DBQ24-M)
+Added Component: Designator=SW(CS12ANW03)
+Added Pin To Net: NetName=3V3 Pin=CB2-1
+Added Pin To Net: NetName=3V3 Pin=CB12-2
+Added Pin To Net: NetName=3V3 Pin=LDO1-2
+Added Pin To Net: NetName=3V3 Pin=SN1-23
+Added Pin To Net: NetName=3V3 Pin=SN1-24
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=CB4-1
+Added Pin To Net: NetName=5V Pin=CB10-2
+Added Pin To Net: NetName=5V Pin=CB11-2
+Added Pin To Net: NetName=5V Pin=CB13-2
+Added Pin To Net: NetName=5V Pin=CB14-2
+Added Pin To Net: NetName=5V Pin=CB15-2
+Added Pin To Net: NetName=5V Pin=CB16-2
+Added Pin To Net: NetName=5V Pin=LDO2-2
+Added Pin To Net: NetName=5V Pin=MUX1-2
+Added Pin To Net: NetName=5V Pin=MUX1-13
+Added Pin To Net: NetName=5V Pin=MUX2-2
+Added Pin To Net: NetName=5V Pin=MUX2-13
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=SN1-1
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=CB1-1
+Added Pin To Net: NetName=12V Pin=CB3-1
+Added Pin To Net: NetName=12V Pin=CB5-2
+Added Pin To Net: NetName=12V Pin=CB6-2
+Added Pin To Net: NetName=12V Pin=CB7-2
+Added Pin To Net: NetName=12V Pin=CB8-2
+Added Pin To Net: NetName=12V Pin=CB9-2
+Added Pin To Net: NetName=12V Pin=LDO1-3
+Added Pin To Net: NetName=12V Pin=LDO2-3
+Added Pin To Net: NetName=12V Pin=PWR-1
+Added Pin To Net: NetName=12V Pin=PWR-1
+Added Pin To Net: NetName=12V Pin=PWR-1
+Added Pin To Net: NetName=12V Pin=SW-1
+Added Net: Name=12V
+Added Pin To Net: NetName=12V U/OVD Pin=HEADER1-61
+Added Pin To Net: NetName=12V U/OVD Pin=HEADER1-63
+Added Net: Name=12V U/OVD
+Added Pin To Net: NetName=ADC_CLK_FPGA Pin=HEADER1-89
+Added Pin To Net: NetName=ADC_CLK_FPGA Pin=MUX1-10
+Added Net: Name=ADC_CLK_FPGA
+Added Pin To Net: NetName=ADC_CS_FPGA Pin=HEADER1-92
+Added Pin To Net: NetName=ADC_CS_FPGA Pin=HEADER1-93
+Added Pin To Net: NetName=ADC_CS_FPGA Pin=MUX2-16
+Added Net: Name=ADC_CS_FPGA
+Added Pin To Net: NetName=ADC_CSN_FPGA Pin=HEADER1-40
+Added Pin To Net: NetName=ADC_CSN_FPGA Pin=HEADER1-42
+Added Net: Name=ADC_CSN_FPGA
+Added Pin To Net: NetName=ADC_SCLK_FPGA Pin=HEADER1-41
+Added Pin To Net: NetName=ADC_SCLK_FPGA Pin=HEADER1-45
+Added Net: Name=ADC_SCLK_FPGA
+Added Pin To Net: NetName=ADC_SDATA_CUR_BI_FPGA Pin=HEADER1-21
+Added Pin To Net: NetName=ADC_SDATA_CUR_BI_FPGA Pin=HEADER1-37
+Added Net: Name=ADC_SDATA_CUR_BI_FPGA
+Added Pin To Net: NetName=ADC_SDATA_CUR_FPGA Pin=HEADER1-29
+Added Pin To Net: NetName=ADC_SDATA_CUR_FPGA Pin=HEADER1-33
+Added Net: Name=ADC_SDATA_CUR_FPGA
+Added Pin To Net: NetName=ADC_SDATA_CUR Pin=HEADER1-88
+Added Pin To Net: NetName=ADC_SDATA_CUR Pin=HEADER1-90
+Added Pin To Net: NetName=ADC_SDATA_CUR Pin=MUX1-9
+Added Net: Name=ADC_SDATA_CUR
+Added Pin To Net: NetName=ADC_SDATA_VOT_BI_FPGA Pin=HEADER1-32
+Added Pin To Net: NetName=ADC_SDATA_VOT_BI_FPGA Pin=HEADER1-34
+Added Net: Name=ADC_SDATA_VOT_BI_FPGA
+Added Pin To Net: NetName=ADC_SDATA_VOT_FPGA Pin=HEADER1-36
+Added Pin To Net: NetName=ADC_SDATA_VOT_FPGA Pin=HEADER1-38
+Added Net: Name=ADC_SDATA_VOT_FPGA
+Added Pin To Net: NetName=ADC_SDATA_VOT Pin=HEADER1-94
+Added Pin To Net: NetName=ADC_SDATA_VOT Pin=HEADER1-95
+Added Pin To Net: NetName=ADC_SDATA_VOT Pin=MUX2-9
+Added Net: Name=ADC_SDATA_VOT
+Added Pin To Net: NetName=AUDIO_ENABLE Pin=HEADER2-17
+Added Net: Name=AUDIO_ENABLE
+Added Pin To Net: NetName=BI_DRV_ACT Pin=HEADER1-84
+Added Pin To Net: NetName=BI_DRV_ACT Pin=MUX2-15
+Added Net: Name=BI_DRV_ACT
+Added Pin To Net: NetName=CAL_10 Pin=HEADER1-22
+Added Pin To Net: NetName=CAL_10 Pin=MUX2-7
+Added Net: Name=CAL_10
+Added Pin To Net: NetName=CAL_100 Pin=HEADER1-18
+Added Pin To Net: NetName=CAL_100 Pin=MUX2-5
+Added Net: Name=CAL_100
+Added Pin To Net: NetName=CAP DIS Pin=HEADER1-62
+Added Pin To Net: NetName=CAP DIS Pin=HEADER1-74
+Added Net: Name=CAP DIS
+Added Pin To Net: NetName=CR_PG_FPGA Pin=HEADER1-76
+Added Pin To Net: NetName=CR_PG_FPGA Pin=HEADER1-80
+Added Net: Name=CR_PG_FPGA
+Added Pin To Net: NetName=CS_N Pin=HEADER1-7
+Added Pin To Net: NetName=CS_N Pin=MUX1-4
+Added Net: Name=CS_N
+Added Pin To Net: NetName=DATA_IN Pin=HEADER1-65
+Added Pin To Net: NetName=DATA_IN Pin=HEADER1-67
+Added Net: Name=DATA_IN
+Added Pin To Net: NetName=EEPROM-SCLK Pin=HEADER1-12
+Added Pin To Net: NetName=EEPROM-SCLK Pin=HEADER1-14
+Added Net: Name=EEPROM-SCLK
+Added Pin To Net: NetName=EEPROM-SDATA Pin=HEADER1-11
+Added Pin To Net: NetName=EEPROM-SDATA Pin=HEADER1-81
+Added Pin To Net: NetName=EEPROM-SDATA Pin=R1-1
+Added Net: Name=EEPROM-SDATA
+Added Pin To Net: NetName=EEPROM _CLK Pin=HEADER1-85
+Added Pin To Net: NetName=EEPROM _CLK Pin=MUX1-12
+Added Net: Name=EEPROM _CLK
+Added Pin To Net: NetName=EN Pin=HEADER1-25
+Added Pin To Net: NetName=EN Pin=HEADER1-27
+Added Net: Name=EN
+Added Pin To Net: NetName=FAN LOAD SWITCH Pin=HEADER1-31
+Added Pin To Net: NetName=FAN LOAD SWITCH Pin=HEADER1-51
+Added Net: Name=FAN LOAD SWITCH
+Added Pin To Net: NetName=FPGA EN/SS Pin=HEADER1-66
+Added Pin To Net: NetName=FPGA EN/SS Pin=HEADER1-68
+Added Net: Name=FPGA EN/SS
+Added Pin To Net: NetName=GM_DIN Pin=HEADER1-8
+Added Pin To Net: NetName=GM_DIN Pin=MUX2-10
+Added Net: Name=GM_DIN
+Added Pin To Net: NetName=GM_DOUT Pin=HEADER1-6
+Added Pin To Net: NetName=GM_DOUT Pin=MUX1-8
+Added Net: Name=GM_DOUT
+Added Pin To Net: NetName=GUI_UART_RX Pin=HEADER2-3
+Added Pin To Net: NetName=GUI_UART_RX Pin=HEADER2-4
+Added Net: Name=GUI_UART_RX
+Added Pin To Net: NetName=I/P AC U/OVD Pin=HEADER1-54
+Added Pin To Net: NetName=I/P AC U/OVD Pin=HEADER1-56
+Added Net: Name=I/P AC U/OVD
+Added Pin To Net: NetName=I_THRESHOLD Pin=HEADER1-79
+Added Pin To Net: NetName=I_THRESHOLD Pin=HEADER1-83
+Added Net: Name=I_THRESHOLD
+Added Pin To Net: NetName=LEDG Pin=HEADER1-39
+Added Pin To Net: NetName=LEDG Pin=HEADER1-71
+Added Net: Name=LEDG
+Added Pin To Net: NetName=LOAD SWITCH IP Pin=HEADER1-44
+Added Pin To Net: NetName=LOAD SWITCH IP Pin=HEADER1-52
+Added Net: Name=LOAD SWITCH IP
+Added Pin To Net: NetName=Net12V_1 Pin=12V-1
+Added Pin To Net: NetName=Net12V_1 Pin=SW-2
+Added Net: Name=Net12V_1
+Added Pin To Net: NetName=NetSN1_3 Pin=SN1-3
+Added Net: Name=NetSN1_3
+Added Pin To Net: NetName=NetSN1_4 Pin=SN1-4
+Added Net: Name=NetSN1_4
+Added Pin To Net: NetName=NetSN1_20 Pin=SN1-20
+Added Net: Name=NetSN1_20
+Added Pin To Net: NetName=NetSN1_21 Pin=SN1-21
+Added Net: Name=NetSN1_21
+Added Pin To Net: NetName=OCP READER Pin=HEADER1-57
+Added Pin To Net: NetName=OCP READER Pin=HEADER1-59
+Added Net: Name=OCP READER
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=12V-2
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=12V-3
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB1-2
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB2-2
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB3-2
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB4-2
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB5-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB6-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB7-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB8-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB9-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB10-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB11-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB12-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB13-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB14-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB15-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=CB16-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=HEADER1-28
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=HEADER2-10
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=LDO1-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=LDO2-1
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=MUX1-14
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=MUX2-14
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-2
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-2
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-2
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-3
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-3
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-3
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-4
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-4
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-4
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-5
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-5
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-5
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-6
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-6
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-6
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-7
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-7
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-7
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-8
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-8
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=PWR-8
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=SN1-2
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=SN1-11
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=SN1-12
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=SN1-13
+Added Pin To Net: NetName=OUTPUT_ENABLE Pin=SN1-22
+Added Net: Name=OUTPUT_ENABLE
+Added Pin To Net: NetName=PFC_SPARE_1 Pin=HEADER2-7
+Added Net: Name=PFC_SPARE_1
+Added Pin To Net: NetName=PFC INRUSH RELAY Pin=HEADER1-58
+Added Pin To Net: NetName=PFC INRUSH RELAY Pin=HEADER1-78
+Added Net: Name=PFC INRUSH RELAY
+Added Pin To Net: NetName=PFC ON/OFF RLY Pin=HEADER1-53
+Added Pin To Net: NetName=PFC ON/OFF RLY Pin=HEADER1-55
+Added Net: Name=PFC ON/OFF RLY
+Added Pin To Net: NetName=POWER GOOD Pin=HEADER1-82
+Added Pin To Net: NetName=POWER GOOD Pin=HEADER1-86
+Added Net: Name=POWER GOOD
+Added Pin To Net: NetName=PPM_CLK Pin=HEADER1-26
+Added Pin To Net: NetName=PPM_CLK Pin=HEADER1-30
+Added Net: Name=PPM_CLK
+Added Pin To Net: NetName=PPM_CS Pin=HEADER1-13
+Added Pin To Net: NetName=PPM_CS Pin=MUX1-6
+Added Net: Name=PPM_CS
+Added Pin To Net: NetName=PPM_SDATA Pin=HEADER1-17
+Added Pin To Net: NetName=PPM_SDATA Pin=HEADER1-19
+Added Net: Name=PPM_SDATA
+Added Pin To Net: NetName=PV1-D-PK-A Pin=HEADER1-2
+Added Pin To Net: NetName=PV1-D-PK-A Pin=MUX2-12
+Added Net: Name=PV1-D-PK-A
+Added Pin To Net: NetName=PV1-D-PK-B Pin=HEADER1-16
+Added Pin To Net: NetName=PV1-D-PK-B Pin=MUX2-4
+Added Net: Name=PV1-D-PK-B
+Added Pin To Net: NetName=RFID RX_FPGA_OUT Pin=HEADER1-60
+Added Pin To Net: NetName=RFID RX_FPGA_OUT Pin=HEADER1-64
+Added Net: Name=RFID RX_FPGA_OUT
+Added Pin To Net: NetName=RL_1 Pin=HEADER1-87
+Added Pin To Net: NetName=RL_1 Pin=MUX1-11
+Added Net: Name=RL_1
+Added Pin To Net: NetName=RL_2 Pin=HEADER1-91
+Added Pin To Net: NetName=RL_2 Pin=MUX2-1
+Added Net: Name=RL_2
+Added Pin To Net: NetName=RL_4 Pin=HEADER1-96
+Added Pin To Net: NetName=RL_4 Pin=HEADER2-20
+Added Net: Name=RL_4
+Added Pin To Net: NetName=RX Pin=HEADER1-10
+Added Pin To Net: NetName=RX Pin=MUX2-8
+Added Net: Name=RX
+Added Pin To Net: NetName=SCLK-A Pin=HEADER1-1
+Added Pin To Net: NetName=SCLK-A Pin=MUX1-1
+Added Net: Name=SCLK-A
+Added Pin To Net: NetName=SCLK_FBR Pin=HEADER1-70
+Added Pin To Net: NetName=SCLK_FBR Pin=HEADER1-72
+Added Net: Name=SCLK_FBR
+Added Pin To Net: NetName=SLOW_THRESOLD Pin=HEADER1-75
+Added Pin To Net: NetName=SLOW_THRESOLD Pin=HEADER1-77
+Added Net: Name=SLOW_THRESOLD
+Added Pin To Net: NetName=SPARE_OUT_1 Pin=HEADER2-18
+Added Pin To Net: NetName=SPARE_OUT_1 Pin=SN1-18
+Added Net: Name=SPARE_OUT_1
+Added Pin To Net: NetName=SPARE_OUT_2 Pin=HEADER2-22
+Added Pin To Net: NetName=SPARE_OUT_2 Pin=SN1-17
+Added Net: Name=SPARE_OUT_2
+Added Pin To Net: NetName=SPARE_OUT_3 Pin=HEADER2-14
+Added Pin To Net: NetName=SPARE_OUT_3 Pin=SN1-19
+Added Net: Name=SPARE_OUT_3
+Added Pin To Net: NetName=SV1-D-PK-A Pin=HEADER1-3
+Added Pin To Net: NetName=SV1-D-PK-A Pin=MUX1-16
+Added Net: Name=SV1-D-PK-A
+Added Pin To Net: NetName=SV1-D-PK-B Pin=HEADER1-15
+Added Pin To Net: NetName=SV1-D-PK-B Pin=MUX1-7
+Added Net: Name=SV1-D-PK-B
+Added Pin To Net: NetName=SV2-D-PK-A Pin=HEADER1-4
+Added Pin To Net: NetName=SV2-D-PK-A Pin=MUX2-11
+Added Net: Name=SV2-D-PK-A
+Added Pin To Net: NetName=SV3-D-PK-A Pin=HEADER1-5
+Added Pin To Net: NetName=SV3-D-PK-A Pin=MUX1-15
+Added Net: Name=SV3-D-PK-A
+Added Pin To Net: NetName=SV3-D-PK-B Pin=HEADER1-20
+Added Pin To Net: NetName=SV3-D-PK-B Pin=MUX2-6
+Added Net: Name=SV3-D-PK-B
+Added Pin To Net: NetName=SW3 Pin=HEADER1-35
+Added Pin To Net: NetName=SW3 Pin=HEADER1-73
+Added Net: Name=SW3
+Added Pin To Net: NetName=SW4 Pin=HEADER1-47
+Added Pin To Net: NetName=SW4 Pin=SN1-5
+Added Net: Name=SW4
+Added Pin To Net: NetName=SW5 Pin=HEADER1-48
+Added Pin To Net: NetName=SW5 Pin=HEADER1-50
+Added Net: Name=SW5
+Added Pin To Net: NetName=SW7 Pin=HEADER1-43
+Added Pin To Net: NetName=SW7 Pin=HEADER1-69
+Added Net: Name=SW7
+Added Pin To Net: NetName=SW10 Pin=HEADER2-15
+Added Net: Name=SW10
+Added Pin To Net: NetName=SW11 Pin=HEADER2-8
+Added Pin To Net: NetName=SW11 Pin=SN1-7
+Added Net: Name=SW11
+Added Pin To Net: NetName=SW12 Pin=HEADER2-16
+Added Pin To Net: NetName=SW12 Pin=SN1-8
+Added Net: Name=SW12
+Added Pin To Net: NetName=SW13 Pin=HEADER2-11
+Added Net: Name=SW13
+Added Pin To Net: NetName=SW14 Pin=HEADER2-12
+Added Pin To Net: NetName=SW14 Pin=SN1-9
+Added Net: Name=SW14
+Added Pin To Net: NetName=SW15 Pin=HEADER2-19
+Added Pin To Net: NetName=SW15 Pin=SN1-10
+Added Net: Name=SW15
+Added Pin To Net: NetName=TEMP SDA Pin=HEADER1-49
+Added Pin To Net: NetName=TEMP SDA Pin=SN1-6
+Added Net: Name=TEMP SDA
+Added Pin To Net: NetName=TX Pin=HEADER1-9
+Added Pin To Net: NetName=TX Pin=MUX1-5
+Added Net: Name=TX
+Added Pin To Net: NetName=V_RFID Pin=HEADER1-46
+Added Net: Name=V_RFID
+Added Pin To Net: NetName=VIBRATION_EN Pin=HEADER2-21
+Added Pin To Net: NetName=VIBRATION_EN Pin=SN1-15
+Added Net: Name=VIBRATION_EN
+Added Pin To Net: NetName=VIBRATION_SCLK Pin=HEADER2-24
+Added Pin To Net: NetName=VIBRATION_SCLK Pin=SN1-16
+Added Net: Name=VIBRATION_SCLK
+Added Pin To Net: NetName=VIBRATION_SCS Pin=HEADER2-23
+Added Pin To Net: NetName=VIBRATION_SCS Pin=SN1-14
+Added Net: Name=VIBRATION_SCS
+Added Class: Name=FPGA_Tester_Board_Signals
+Added Class: Name=MUX_8_TO_1_1
+Added Class: Name=MUX_8_TO_1_2
+Added Class: Name=Power_Input
+Added Class: Name=U_3V3_to_5V_8_bit_Logic_Converter
+Added Class: Name=U_12V_to_3_3V_1A_LR_Sheet
+Added Class: Name=U_12V_to_5V_1A_LR_Sheet
+Added Class: Name=Multiplexer_8_to_1
+Added Room: Name=FPGA_Tester_Board_Signals
+Added Room: Name=MUX_8_TO_1_1
+Added Room: Name=MUX_8_TO_1_2
+Added Room: Name=Power_Input
+Added Room: Name=U_3V3_to_5V_8_bit_Logic_Converter
+Added Room: Name=U_12V_to_3_3V_1A_LR_Sheet
+Added Room: Name=U_12V_to_5V_1A_LR_Sheet

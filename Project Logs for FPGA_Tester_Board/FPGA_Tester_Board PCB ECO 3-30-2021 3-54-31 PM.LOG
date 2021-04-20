@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CAL_100 Pin=MUX2-10
+Removed Pin From Net: NetName=CAL_10 Pin=MUX2-11
+Added Pin To Net: NetName=CAL_10 Pin=MUX2-10
+Added Pin To Net: NetName=CAL_100 Pin=MUX2-11

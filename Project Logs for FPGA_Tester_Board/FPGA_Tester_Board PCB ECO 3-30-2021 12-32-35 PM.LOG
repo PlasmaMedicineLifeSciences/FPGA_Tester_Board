@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PPM_CS Pin=MUX1-6
+Removed Pin From Net: NetName=SV1-D-PK-B Pin=MUX1-7
+Removed Pin From Net: NetName=SV3-D-PK-A Pin=MUX1-15
+Removed Pin From Net: NetName=SV1-D-PK-A Pin=MUX1-16
+Added Pin To Net: NetName=SV1-D-PK-A Pin=MUX1-6
+Added Pin To Net: NetName=SV3-D-PK-A Pin=MUX1-7
+Added Pin To Net: NetName=SV1-D-PK-B Pin=MUX1-15
+Added Pin To Net: NetName=PPM_CS Pin=MUX1-16

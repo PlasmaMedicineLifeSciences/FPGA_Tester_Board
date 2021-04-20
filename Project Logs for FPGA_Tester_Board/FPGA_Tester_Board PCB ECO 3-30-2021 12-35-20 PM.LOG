@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SCLK-A Pin=MUX1-1
+Removed Pin From Net: NetName=SV3-D-PK-A Pin=MUX1-7
+Added Pin To Net: NetName=SV3-D-PK-A Pin=MUX1-1
+Added Pin To Net: NetName=SCLK-A Pin=MUX1-7
+Added Room: Name=FPGA_Tester_Board_Signals
+Added Room: Name=Power_Input

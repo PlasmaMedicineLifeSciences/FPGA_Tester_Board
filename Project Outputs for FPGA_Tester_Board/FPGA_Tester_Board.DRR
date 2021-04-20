@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FPGA_Tester_Board.PcbDoc   3/31/2021  2:36:37 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FPGA_Tester_Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      18mil (0.457mm)                                           Round             6         PTH        2.07inch (52.60mm)
+T2      30mil (0.75mm)                                            Round             144       PTH        14.37inch (365.00mm)
+T3      32mil (0.813mm)                                           Round             15        PTH        8.17inch (207.49mm)
+T4      35mil (0.89mm)                                            Round             3         PTH        0.20inch (5.08mm)
+T5      63mil (1.6mm)                                             Round             3         PTH        0.37inch (9.40mm)
+T6      122mil (3.1mm)                                            Round             8         PTH        9.21inch (233.84mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              179
+
+Total Processing Time (hh:mm:ss) : 00:00:00

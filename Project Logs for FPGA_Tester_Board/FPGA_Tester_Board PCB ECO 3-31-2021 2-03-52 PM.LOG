@@ -1,0 +1,9 @@
+Added Component: Designator=R2(0603R)
+Added Component: Designator=V_RFID(1206_A)
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=V_RFID Pin=V_RFID-2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=V_RFID-1
+Added Net: Name=NetR2_2
+Added Member To Class: ClassName=FPGA_Tester_Board_Signals Member=Component R2 2.2K
+Added Member To Class: ClassName=FPGA_Tester_Board_Signals Member=Component V_RFID RED
